@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore environment files
+.env
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore logs and other temporary files
+logs/
+*.log
+
+# Ignore any other files or folders as needed
